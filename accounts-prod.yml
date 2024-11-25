@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Well come to eazybank accounts related Prod APIs"
+  message: "Well come to eazybank accounts related Production APIs"
   contactDetails:
     name: "Aarya Prod instances"
     email: "{cipher}46cf5b829c052f2e24544fd91b9c963ad4e8d397a39b32ea1b7ceae71cb8ab79a68d26c40ca095c5b1b75be62debfbed"
