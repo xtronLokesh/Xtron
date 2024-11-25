@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Well come to eazybank accounts related QA APIs"
+  contactDetails:
+    name: "Reddy QA instances"
+    email: "lokesh123@gmail.com"
+  onCallSupport:
+    - 9900807404
+    - 9241323143

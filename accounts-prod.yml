@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Well come to eazybank accounts related Prod APIs"
+  contactDetails:
+    name: "Aarya Prod instances"
+    email: "Aarya123@gmail.com"
+  onCallSupport:
+    - 9900807404
+    - 9241323143

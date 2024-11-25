@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Well come to eazybank accounts related local apis"
+  contactDetails:
+    name: "Lokesh Reddy Xtron"
+    email: "lokireddylokesh123@gmail.com"
+  onCallSupport:
+    - 9900807404
+    - 9241323143
+
