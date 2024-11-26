@@ -1,5 +1,5 @@
 server:
-  port: 8761 # Default port for Eureka server
+  port: 8070 # Default port for Eureka server
 
 eureka:
   instance:
